@@ -27,10 +27,15 @@
 
 六、第三方 SDK 目录
 下列为涉及收集用户信息的第三方 SDK 服务
+
  SDK 名称：AppCenter
+ 
  所属机构：微软 
+ 
  SDK 用途：App 分析
+ 
  SDK 收集的信息类型：匿名收集用户的 App 崩溃信息，版本分布情况
+ 
  官网链接 ： https://appcenter.ms
 
 
